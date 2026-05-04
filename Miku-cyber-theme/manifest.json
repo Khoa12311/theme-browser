@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Hatsune Miku Theme",
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "images/bg.png",
+      "theme_toolbar": "images/bg.png",
+      "theme_ntp_background": "images/bg.png"
+    },
+    "colors": {
+      "frame": [57,197,187],
+      "toolbar": [47,164,160],
+      "tab_text": [255,255,255],
+      "bookmark_text": [200,200,200]
+    },
+    "properties": {
+      "ntp_background_alignment": "center bottom",
+      "ntp_background_repeat": "no-repeat"
+    },
+   "icons": {
+     "128": "images/icon.png"
+   }
+  }
+}
