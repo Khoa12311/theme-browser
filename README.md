@@ -17,7 +17,7 @@ A clean, dark cyber-style theme inspired by Hatsune Miku 💙
 1. Download this repo as ZIP
 2. Extract it
 3. Open browser and go to:
-   coccoc://extensions
+   coccoc://extensions ( or any browser )
 4. Enable Developer Mode
 5. Click "Load unpacked"
 6. Select this folder
